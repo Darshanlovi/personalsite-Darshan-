@@ -1,0 +1,16 @@
+p{
+    color: rgb(255, 0, 0);
+    font-size: large;
+    font-style: normal;
+}
+body{
+ background-image: url(mustang-hd-wallpapers-1080p-5.jpg)
+}
+hr{
+    border-width: 1px;
+    border-style: dashed solid;
+}
+.profile-img{
+    border-radius: 50%;
+
+}
